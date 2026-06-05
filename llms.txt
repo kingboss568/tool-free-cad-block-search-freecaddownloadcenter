@@ -1,0 +1,45 @@
+Free CAD Block Search
+
+Free CAD Block Search is a practical cad studio workspace for shop drawing reviewer teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://blocks.freecaddownloadcenter.com/
+- https://blocks.freecaddownloadcenter.com/tool/
+- https://blocks.freecaddownloadcenter.com/workspace/
+- https://blocks.freecaddownloadcenter.com/reports/
+- https://blocks.freecaddownloadcenter.com/guides/
+- https://blocks.freecaddownloadcenter.com/library/
+- https://blocks.freecaddownloadcenter.com/templates/
+- https://blocks.freecaddownloadcenter.com/compare/
+- https://blocks.freecaddownloadcenter.com/checklists/
+- https://blocks.freecaddownloadcenter.com/integrations/
+- https://blocks.freecaddownloadcenter.com/settings/
+- https://blocks.freecaddownloadcenter.com/plans/
+- https://blocks.freecaddownloadcenter.com/faq/
+- https://blocks.freecaddownloadcenter.com/privacy/
+- https://blocks.freecaddownloadcenter.com/about/
+- https://blocks.freecaddownloadcenter.com/guides/preflight-a-dwg-package-1/
+- https://blocks.freecaddownloadcenter.com/guides/standardize-a-drawing-set-2/
+- https://blocks.freecaddownloadcenter.com/guides/prepare-a-client-handoff-3/
+- https://blocks.freecaddownloadcenter.com/guides/audit-a-template-4/
+- https://blocks.freecaddownloadcenter.com/guides/compare-block-options-5/
+- https://blocks.freecaddownloadcenter.com/guides/document-drawing-assumptions-6/
+- https://blocks.freecaddownloadcenter.com/guides/preflight-a-dwg-package-7/
+- https://blocks.freecaddownloadcenter.com/guides/standardize-a-drawing-set-8/
+- https://blocks.freecaddownloadcenter.com/guides/prepare-a-client-handoff-9/
+- https://blocks.freecaddownloadcenter.com/guides/audit-a-template-10/
+- https://blocks.freecaddownloadcenter.com/guides/compare-block-options-11/
+- https://blocks.freecaddownloadcenter.com/guides/document-drawing-assumptions-12/
+- https://blocks.freecaddownloadcenter.com/guides/preflight-a-dwg-package-13/
+- https://blocks.freecaddownloadcenter.com/guides/standardize-a-drawing-set-14/
+- https://blocks.freecaddownloadcenter.com/guides/prepare-a-client-handoff-15/
+- https://blocks.freecaddownloadcenter.com/guides/audit-a-template-16/
+- https://blocks.freecaddownloadcenter.com/guides/compare-block-options-17/
+- https://blocks.freecaddownloadcenter.com/guides/document-drawing-assumptions-18/
+- https://blocks.freecaddownloadcenter.com/guides/preflight-a-dwg-package-19/
+- https://blocks.freecaddownloadcenter.com/guides/standardize-a-drawing-set-20/
+- https://blocks.freecaddownloadcenter.com/guides/prepare-a-client-handoff-21/
+- https://blocks.freecaddownloadcenter.com/guides/audit-a-template-22/
+- https://blocks.freecaddownloadcenter.com/guides/compare-block-options-23/
+- https://blocks.freecaddownloadcenter.com/guides/document-drawing-assumptions-24/
+- https://blocks.freecaddownloadcenter.com/guides/preflight-a-dwg-package-25/
